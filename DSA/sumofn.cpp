@@ -18,4 +18,4 @@ int main() {
     cout << "Sum = " << sum;     // Print the final sum
 
     return 0;                    // End the program
-}
+} 
