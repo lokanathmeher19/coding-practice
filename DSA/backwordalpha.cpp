@@ -5,11 +5,11 @@ int main() {
 
     int n = 4;                   // Number of rows
 
-    for (int i = 0; i < n; i++) {
-               // Outer loop: controls rows
-        for (int j = i + 1; j > 0; j--) { // Start from i+1 and decrease j
+    for (int i = 0; i < n; i++) {        // Outer loop: controls rows
 
-            cout << j << " ";             // Print j
+        for (int j = i; j >= 0; j--) {   // Inner loop: decrease j
+
+            cout << char('A' + j) << " "; // Convert j into alphabet
         }
 
         cout << endl;                     // Move to next row
