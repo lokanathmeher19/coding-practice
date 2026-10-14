@@ -17,8 +17,10 @@
   <a href="#-how-to-run--execution-guide">How to Run</a> •
   <a href="#-learning-roadmap">Roadmap</a> •
   <a href="#-technology-stack">Tech Stack</a> •
-  <a href="#-author--license">Author</a>
+  <a href="#-author-authorization--license">Author & Authorization</a>
 </p>
+
+> 🛡️ **Authorized & Maintained by [Lokanath Meher](https://github.com/lokanathmeher19)** • *Official Coding Practice & Computer Science Toolkit. Free to use for study, learning, and practice.*
 
 ---
 
@@ -392,11 +394,12 @@ Contributions, bug reports, and optimizations are welcome! If you would like to 
 
 ---
 
-## 👤 Author & License
+## 👤 Author, Authorization & License
 
-* **Author**: Lokanath Meher
+* **Author & Maintainer**: **Lokanath Meher**
 * **GitHub**: [@lokanathmeher19](https://github.com/lokanathmeher19)
 * **Email**: [meherlokanath314@gmail.com](mailto:meherlokanath314@gmail.com)
+* **Authorization & Usage**: This repository is created, authored, and authorized by **Lokanath Meher**. All code, solutions, and implementations are officially authorized and open for educational use, technical interview preparation, and personal coding practice under the MIT License.
 
 Distributed under the **MIT License**. Feel free to use, study, and adapt this repository for your learning and educational purposes.
 
