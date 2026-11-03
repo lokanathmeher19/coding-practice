@@ -79,6 +79,8 @@ coding-practice/
 │   ├── 📁 Highorder&callback/     # Higher-order functions & callback workflows
 │   ├── 📁 Nxt moden js/           # ES6+ Destructuring, Rest & Spread operators
 │   └── 📁 Loops/ & operators/     # Control flow, data types, operators
+|
+|__
 │
 ├── 📁 Python/                     # Python Problem Solving & Interview Prep
 │   ├── 📁 basic_py/               # Dictionaries, exception handling, file I/O, list comp
@@ -406,3 +408,5 @@ Distributed under the **MIT License**. Feel free to use, study, and adapt this r
 <div align="center">
   <sub>⭐ If you find this repository helpful, consider giving it a star on GitHub! Happy Coding! ⭐</sub>
 </div>
+
+**CopyRights@lokanathmeher19 (2024-26)**
