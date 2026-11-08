@@ -71,3 +71,15 @@ echo "7 is " . $checkEven(7) . "\n";
 // ==========================================
 // END OF PROGRAM
 // ==========================================
+
+
+
+
+
+cd /home/azureuser/gitguard
+
+sed -n '350,410p' scripts/recovery_worker.py
+
+sed -n '620,700p' scripts/recovery_worker.py
+
+sed -n '750,825p' scripts/recovery_worker.py
