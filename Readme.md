@@ -410,6 +410,6 @@ Distributed under the **MIT License**. Feel free to use, study, and adapt this r
 </div>
 
 
-All coding practice 
+All coding practice  all language 
 
-**CopyRights@lokanathmeher19 (2024-26)**
+**CopyRights@lokanathmeher19 (2024-26)**  
